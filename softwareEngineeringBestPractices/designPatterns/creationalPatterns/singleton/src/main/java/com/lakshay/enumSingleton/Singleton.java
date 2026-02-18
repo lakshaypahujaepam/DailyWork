@@ -1,4 +1,9 @@
 package com.lakshay.enumSingleton;
 
-public class Singleton {
+public enum Singleton {
+    INSTANCE;
+
+    public Singleton getInstance() {
+        return INSTANCE;
+    }
 }

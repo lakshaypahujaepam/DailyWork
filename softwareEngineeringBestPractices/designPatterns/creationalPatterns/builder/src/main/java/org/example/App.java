@@ -1,7 +1,5 @@
 package org.example;
 
-import java.util.HashMap;
-
 public class App
 {
     public static void main( String[] args )
@@ -20,5 +18,8 @@ public class App
 
         HttpRequestBuilder httpRequestBuilder = new HttpRequestBuilder.Builder(HttpRequestBuilder.Method.GET, "www.google.com").body("bosy").timeout(2347).build();
         System.out.println(httpRequestBuilder.toString());
+
+        Laptop laptopBuilder = new Laptop.LaptopBuilder("Hp", "intel core i5", 32).graphicsCard("intel gc").touchScreen(false).backlitKeyboard(true).operatingSystem("Windows").storage(512).build();
+        System.out.println(laptopBuilder.toString());
     }
 }
