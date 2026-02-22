@@ -1,12 +1,24 @@
 package com.lakshay;
 
-/**
- * Hello world!
- */
+import com.lakshay.basics.*;
+
 public class App {
     public static void main(String[] args) {
         System.out.println(CountVowels.count());
         System.out.println(CountWords.count());
-        System.out.println();
+        System.out.println(ReverseString.reverse());
+        System.out.println(RemoveDuplicates.removeDuplicates());
+
+//        basics
+        System.out.println(CharacterFrequency.getFrequency());
+        System.out.println(DuplicatesOnly.getChars());
+        System.out.println(FirstNonRepeatedCharacter.getCharacter());
+        System.out.println(MostFreqentElement.getMostFrequent());
+
+        System.out.println(SquareOfEvenNumbers.getNumbers());
+        System.out.println(LongestWord.getLongestString());
+        System.out.println(FirstNonRepeatedWord.getWord());
+        System.out.println(GroupByFirstChar.getVal());
+        System.out.println(MaximumLengthStringByEachStartingChar.getMaxLenMapped());
     }
 }

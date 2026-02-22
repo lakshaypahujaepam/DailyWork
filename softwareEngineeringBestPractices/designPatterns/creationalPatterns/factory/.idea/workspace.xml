@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58b800b0-52a4-4cfa-a4eb-1693cceb834a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lakshay/vehicle/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lakshay/vehicle/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lakshay/vehicle/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lakshay/vehicle/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/lakshay/eager/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/basics/CharacterFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/basics/DuplicatesOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/basics/FirstNonRepeatedCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/basics/FirstNonRepeatedWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/basics/GroupByFirstChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/basics/LongestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/basics/MostFreqentElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/basics/SquareOfEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lakshay/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lakshay/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../singleton/src/main/java/com/lakshay/doublecheck/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../singleton/src/main/java/com/lakshay/doublecheck/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/src/main/java/com/lakshay/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../streamsAPI/streams/target/classes/com/lakshay/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../streamsAPI/streams/target/classes/com/lakshay/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../testng/tasks/testng-1.1-setup" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../testng/tasks/testng-1.1-setup" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,23 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.App.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/C data/DailyWork/softwareEngineeringBestPractices/designPatterns/creationalPatterns/factory",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "kotlinNotebook"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/C data/DailyWork/softwareEngineeringBestPractices/designPatterns/creationalPatterns/factory&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;kotlinNotebook&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lakshay.App" />
