@@ -20,5 +20,11 @@ public class App {
         System.out.println(FirstNonRepeatedWord.getWord());
         System.out.println(GroupByFirstChar.getVal());
         System.out.println(MaximumLengthStringByEachStartingChar.getMaxLenMapped());
+
+        System.out.println(SumOfSquaresOfOddNumbers.getSum());
+        System.out.println(TotalNumberOfCharactersAcrossAllWords.getCount());
+        System.out.println(CountWordStartsWithChar.getCount());
+        System.out.println(AverageLengthOfWordsGreaterThanFour.getCount());
+        System.out.println(CountOfDistinctWordsGreaterThanThree.getCount());
     }
 }

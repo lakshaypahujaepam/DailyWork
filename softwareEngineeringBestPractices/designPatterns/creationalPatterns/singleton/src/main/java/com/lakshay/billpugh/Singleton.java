@@ -1,7 +1,5 @@
 package com.lakshay.billpugh;
 
-import java.awt.event.WindowStateListener;
-
 public class Singleton {
 
     private Singleton() {

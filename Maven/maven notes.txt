@@ -1,0 +1,95 @@
+MAVEN
+│
+├── 1. Why Maven 
+├── 2. Project Structure
+├── 3. POM.xml Structure
+├── 4. Dependency Management
+├── 5. Build Lifecycle
+├── 6. Plugins
+└── 7. Integration with Git
+
+
+_______________________WHY_MAVEN_?______________________
+
+❌ Manual JAR download
+❌ Version conflicts
+❌ Classpath issues
+❌ Different build steps on different machines
+❌ "Works on my machine" problem
+
+before maven the above issues exists to solve those maven exists.
+
+1. Dependency Management (Core Strength)
+
+-> dependency = external library projects needs. (Ex - Spring, Hibernate, JUnit, Log4j)
+-> define the dependency in pom.xml 
+
+
+ex dependency :
+
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>6.0.0</version>
+</dependency>
+
+
+how maven resolves dependencies ?
+
+-> checks local repository (~/.m2/repository)
+-> if not found -> checks maven central.
+-> downloads the jar 
+-> stores in local repo
+-> adds to classpath automatically
+
+Maven Central : huge public repository for Java libraries
+
+Transitive Dependencies
+
+-> When the dependency need the other dependency then the secondary one is transitive dependency.
+-> When dependency A depends on B, Maven automatically includes B.
+
+
+
+Dependency Conflict Resolution
+
+-> if 2 libraries depends on different versions, Nearest Defination Wins.
+-> chooses dependency closer to your project in hierarchy.
+
+can be checked using : mvn dependency:tree
+
+
+______________________STANDARD_PROJECT_STRUCTURE______________________
+
+Maven Enforces Structure 
+
+Default Layout :
+
+==================================
+project
+ ├── pom.xml
+ └── src
+      ├── main
+      │    ├── java
+      │    └── resources
+      └── test
+           └── java
+==================================
+
+-every maven project looks same 
+-easy for new developers
+-IDE automatically recognizes 
+
+
+Structure Matters because it is Harder to manage project without Structure
+
+With Maven:
+Clear separation between:
+
+Production code
+
+Test code
+
+Resources
+
+
