@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/behavouralPatterns/strategy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavouralPatterns/strategy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalPatterns/abstractFactory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalPatterns/abstractFactory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalPatterns/builder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalPatterns/builder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalPatterns/factory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalPatterns/factory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalPatterns/factoryMethod/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalPatterns/factoryMethod/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalPatterns/singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creationalPatterns/singleton/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structuralPatterns/decorator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structuralPatterns/decorator/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

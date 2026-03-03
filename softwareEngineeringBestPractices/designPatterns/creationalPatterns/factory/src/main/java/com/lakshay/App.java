@@ -14,8 +14,8 @@ public class App {
         Vehicle bike = VehicleFactory.getVehicle("bike");
         bike.drive();
 
-        Vehicle vehicle = VehicleFactory.getVehicle("evhci");
-        bike.drive();
+//        Vehicle vehicle = VehicleFactory.getVehicle("evhci");
+//        bike.drive();
 
     }
 }
