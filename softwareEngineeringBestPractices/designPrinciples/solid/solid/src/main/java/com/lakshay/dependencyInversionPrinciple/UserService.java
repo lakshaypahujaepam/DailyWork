@@ -3,6 +3,9 @@ package com.lakshay.dependencyInversionPrinciple;
 //5️⃣ Dependency Inversion Principle (DIP)
 //✅ Correct – Depend on abstraction
 //✔ Now you can switch DB without modifying UserService.
+//According to DIP:
+//Both high-level and low-level modules should depend on abstraction.
+
 
 interface Database {
     void save(String data);

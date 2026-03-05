@@ -26,5 +26,9 @@ public class App {
         System.out.println(CountWordStartsWithChar.getCount());
         System.out.println(AverageLengthOfWordsGreaterThanFour.getCount());
         System.out.println(CountOfDistinctWordsGreaterThanThree.getCount());
+
+        System.out.println(SecondLargest.findSecondLargest());
+        System.out.println(DuplicateNumbers.getDuplicates());
+        System.out.println(PartitionEvenAndOdd.partition());
     }
 }
