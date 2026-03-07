@@ -1,10 +1,15 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
 <suite name="Calculator Suite">
+    <listeners>
+        <listener class-name="com.lakshay.listeners.CustomTestListener"/>
+    </listeners>
     <test name="Calculator tests">
         <classes>
             <class name="com.lakshay.tests.CalculatorTest"/>
             <class name="com.lakshay.tests.SoftAssertionsTest"/>
+            <class name="com.lakshay.tests.DependsOnMethods"/>
+            <class name="com.lakshay.tests.GroupTests"/>
         </classes>
     </test>
 </suite>
