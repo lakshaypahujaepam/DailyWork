@@ -970,6 +970,7 @@ Why conflicts occur ?
 
 **git restore : changes from working directory to last commit state (Working Directory → Last Commit State)**
 
+removes all the uncommited changes -> "staged changes" 
 
 
 **git reset : moves HEAD pointer (HEAD moves backward)**
@@ -1097,7 +1098,7 @@ Push tags : (**git push origin --tags**) : production deployment, CI/CD pipeline
 **Deploy**
 
 
-
+git cherrypick - picks one or more commit from a branch and merges them into another 
 
 
 

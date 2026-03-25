@@ -2,6 +2,8 @@ package com.lakshay;
 
 import com.lakshay.basics.*;
 
+import java.util.IntSummaryStatistics;
+
 public class App {
     public static void main(String[] args) {
         System.out.println(CountVowels.count());
@@ -30,5 +32,20 @@ public class App {
         System.out.println(SecondLargest.findSecondLargest());
         System.out.println(DuplicateNumbers.getDuplicates());
         System.out.println(PartitionEvenAndOdd.partition());
+
+//        summaryStatistics
+
+        IntSummaryStatistics stats = new MaximumAndMinimumInOneStream().getMiniMaxi();
+        System.out.println("mini : " + stats.getMin() + "  , maxi : " + stats.getMax());
+        System.out.println(JoiningWithDelimiter.joinWithDelimiter());
+
+        System.out.println(MaximumLengthWord.maxLengthWord());
+        System.out.println(StringToUpperCase.convertToUpperCase());
+        System.out.println(CountOccuranceOfEachWord.countOcc());
+        System.out.println(CommonElementsBetweenTwoLists.getCommonElements());
+        System.out.println(FlattenTwoDimensionList.flatList());
+
+
+
     }
 }
