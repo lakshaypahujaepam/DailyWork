@@ -1021,7 +1021,7 @@ Push tags : (**git push origin --tags**) : production deployment, CI/CD pipeline
 
 **Meaningful messages :: use : feat, fix, refactor, test, docs**
 
-**.gitignore : prevents committing** 
+**.gitignore : prevents committing**
 
 
 

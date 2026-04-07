@@ -41,7 +41,9 @@ public class PartitionEmployeeBySalary {
         Map<Boolean, List<Employee>> emps = employees.stream()
                 .collect(Collectors.partitioningBy(e -> e.getSalary() > 50000.00));
 
-//        emps.forEach();
+        emps.forEach((k, v) -> {
+            System.out.println(k +" : " + v);
+        });
 
     }
 

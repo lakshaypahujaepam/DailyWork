@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="853ccd7f-ee1c-4d4e-bf8b-069990496326" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaCode/JavaCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/src/main/java/com/impl/fooditem/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/src/main/java/com/impl/fooditem/Cheezedecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/src/main/java/com/impl/fooditem/ExtraSauceDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/src/main/java/com/impl/fooditem/FoodItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/src/main/java/com/impl/fooditem/FoodItemDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/src/main/java/com/impl/fooditem/OliveDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/src/main/java/com/impl/fooditem/PaneerDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/src/main/java/com/impl/fooditem/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/midterm/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/streamsmastery/ChainComparatorForMultipleSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/streamsmastery/ConcatenateTwoStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/streamsmastery/FactorialUsingStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/streamsmastery/InvertAMapUsingStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/streamsmastery/SumOfEvenNumbersInMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/streamsmastery/TransactionsToAccountTotal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/streamsmastery/UniqueSkillsAsATeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testngtask/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testngtask/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testngtask/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testngtask/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testngtask/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testngtask/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testngtask/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testngtask/src/main/java/org/example/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testngtask/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../testngtask/src/test/java/org/example/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Git/git notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Git/git notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maven/Maven Notes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maven/Maven Notes.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maven/maven notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maven/maven notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Maven/practical/01-maven-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Maven/practical/01-maven-demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../apiTesting/api Testing Notes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../apiTesting/api Testing Notes.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/creationalPatterns/abstractFactory/src/main/java/com/lakshay/osproducts/Macfactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/creationalPatterns/abstractFactory/src/main/java/com/lakshay/osproducts/Macfactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/creationalPatterns/abstractFactory/src/main/java/com/lakshay/osproducts/WindowsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/creationalPatterns/abstractFactory/src/main/java/com/lakshay/osproducts/WindowsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/src/main/java/com/impl/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/src/main/java/com/impl/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/target/classes/com/impl/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../softwareEngineeringBestPractices/designPatterns/structuralPatterns/decorator/target/classes/com/impl/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/basics/FirstNonRepeatedCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/basics/FirstNonRepeatedCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/streamsmastery/PartitionEmployeeBySalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/streamsmastery/PartitionEmployeeBySalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/streamsmastery/TopTwoMostExpensiveProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../streamsAPI/streams/src/main/java/com/lakshay/streamsmastery/TopTwoMostExpensiveProductsOfEachCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../streamsAPI/streams/target/classes/com/lakshay/basics/FirstNonRepeatedCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../streamsAPI/streams/target/classes/com/lakshay/basics/FirstNonRepeatedCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../streamsAPI/streams/target/classes/com/lakshay/streamsmastery/PartitionEmployeeBySalary.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../streamsAPI/streams/target/classes/com/lakshay/streamsmastery/PartitionEmployeeBySalary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../testng/tasks/testng-1.1-setup" beforeDir="false" afterPath="$PROJECT_DIR$/../../testng/tasks/testng-1.1-setup" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3BW6DONG3Us5rj60YMcPvVekchD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="853ccd7f-ee1c-4d4e-bf8b-069990496326" name="Changes" comment="" />
+      <created>1774592360889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774592360889</updated>
+    </task>
+    <servers />
+  </component>
+</project>

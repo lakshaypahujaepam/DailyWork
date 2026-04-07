@@ -8,6 +8,9 @@ MAVEN
 ├── 6. Plugins
 └── 7. Integration with Git
 
+What is Maven ?
+:: Build Automation and Project management tool primarily for Java.
+:: we can also use maven with other languages with help of plugins.
 
 _______________________WHY_MAVEN_?______________________
 
@@ -44,7 +47,7 @@ how maven resolves dependencies ?
 
 Maven Central : huge public repository for Java libraries
 
-Transitive Dependencies
+Transitive Dependencies (dependency of a dependency)
 
 -> When the dependency need the other dependency then the secondary one is transitive dependency.
 -> When dependency A depends on B, Maven automatically includes B.
@@ -53,7 +56,7 @@ Transitive Dependencies
 
 Dependency Conflict Resolution
 
--> if 2 libraries depends on different versions, Nearest Defination Wins.
+-> if 2 libraries depends on different versions, Nearest Definition Wins.
 -> chooses dependency closer to your project in hierarchy.
 
 can be checked using : mvn dependency:tree
@@ -78,7 +81,7 @@ project
 
 -every maven project looks same 
 -easy for new developers
--IDE automatically recognizes 
+-IDE(integrated development environment) automatically recognizes 
 
 
 Structure Matters because it is Harder to manage project without Structure
